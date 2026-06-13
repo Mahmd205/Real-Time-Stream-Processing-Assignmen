@@ -23,7 +23,7 @@ The alert condition is:
 Average heart rate > 100 bpm in two consecutive 2-minute windows.
 
 ## Alert Output Example
-`CLINICAL ALERT: Sustained elevated HR across 2 consecutive windows | patient_id=P001 | avg_hr=... bpm | window_start=... | window_end=...`
+`CLINICAL ALERT: Sustained elevated HR across 2 consecutive windows | patient_id=P007 | avg_hr=101.5 bpm | window_start=2026-01-01 10:10:00 | window_end=2026-01-01 10:12:00`
 
 ## How to Run
 1. Open the notebook in Kaggle.
